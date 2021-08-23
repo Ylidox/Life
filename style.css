@@ -1,0 +1,32 @@
+canvas{
+	background:black;
+}
+body{
+	margin: 0;
+	overflow: hidden;
+}
+button{
+	opacity: 0.6;
+	width: 27px;
+	height: 27px;
+	position: absolute;
+	
+}
+#pause{
+	background-image: url(play1.png);
+	background-size: 23px 23px;
+	margin-top: 15px;
+	margin-left: 10px;
+}
+#forward{
+	background-image: url(forward.jpg);
+	background-size: 23px 23px;
+	margin-top: 15px;
+	margin-left: 42px;
+}
+#back{
+	background-image: url(back.png);
+	background-size: 23px 23px;
+	margin-top: 15px;
+	margin-left: 71px;
+}
